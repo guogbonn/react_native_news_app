@@ -1,7 +1,7 @@
 # react_native_news_app
 React Native App (ios and android) News Feed
 Functionality: Sliding tabs, Api Requests, WebView, Share 
-![alt text](https://github.com/guogbonn/react_native_news_app/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2941.jpg?raw=true)
 
 
 /////
