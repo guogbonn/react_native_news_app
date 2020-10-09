@@ -1,6 +1,6 @@
 <h1>React Native App News Feed</h1>
 <br/>
-<h2>Purpose: A simple project to practice React Native Conepcepts.</h2>
+<h3>Purpose: A simple project to practice React Native Conepcepts.</h3>
 <br/>
 
 <h3>
@@ -27,17 +27,14 @@ Functionality: Sliding Tabs, Api Requests, WebView, Modal, Share
 
 <br/>
 
-/////
-<p>
-  "dependencies": {
-    "expo": "~39.0.2",
-    "expo-status-bar": "~1.0.2",
-    "moment": "^2.29.1",
-    "native-base": "^2.13.14",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz",
-    "react-native-web": "~0.13.12",
-    "react-native-webview": "^10.9.2"
-  },
-</p>
+<h2>Dependencies</h2>
+-expo
+-expo-status-bar
+-moment.js (Time Library)
+-native-base (Component-Library)
+-react
+-react-dom
+-react-native
+-react-native-web
+-react-native-webview (View websites In-App)
+
