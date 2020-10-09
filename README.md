@@ -1,7 +1,10 @@
 <h1>React Native App News Feed</h1>
 <br/>
+<h2>Purpose: A simple project to practice React Native Conepcepts.</h2>
+<br/>
+
 <h3>
-Functionality: Sliding tabs, Api Requests, WebView, Share 
+Functionality: Sliding Tabs, Api Requests, WebView, Modal, Share 
 <h3/>
  <br/>
  <h3> In App Images </h3>
@@ -15,10 +18,11 @@ Functionality: Sliding tabs, Api Requests, WebView, Share
  <p  align="center">
   <img src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2942.jpg?raw=true" data-canonical-src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2942.jpg?raw=true" width="200" height="400" />
 </p>
+  <br/>
 
 <h2 align="center"> Share Feature </h2>
  <p  align="center">
-  <img src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2942.jpg?raw=true" data-canonical-src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2942.jpg?raw=true" width="200" height="400" />
+  <img src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2943.jpg?raw=true" data-canonical-src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2943.jpg?raw=true" width="200" height="400" />
 </p>
 
 <br/>
