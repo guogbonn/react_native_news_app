@@ -1,29 +1,38 @@
 <h1>React Native App News Feed</h1>
+
 <br/>
+
 <h3>Purpose: A simple project to practice React Native Conepcepts.</h3>
+
 <br/>
+
 <h3>Description: IOS and Android App</h3>
+
 <br/>
 
 <h3>
 Functionality: Sliding Tabs, Api Requests, WebView, Modal, Share 
 <h3/>
- <br/>
- <h3> In App Images </h3>
- 
-<h2 align="center"> Feed </h2>
+
+<br/>
+
+<h3> In App Images </h3>
+ <h2 align="center"> Feed </h2>
 <p align="center">
   <img src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2941.jpg?raw=true" data-canonical-src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2941.jpg?raw=true" width="200" height="400" />
 </p>
-  <br/>
+
+<br/>
+
 <h2 align="center"> Detail Modal </h2>
- <p  align="center">
+<p  align="center">
   <img src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2942.jpg?raw=true" data-canonical-src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2942.jpg?raw=true" width="200" height="400" />
 </p>
-  <br/>
+  
+<br/>
 
 <h2 align="center"> Share Feature </h2>
- <p  align="center">
+<p  align="center">
   <img src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2943.jpg?raw=true" data-canonical-src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2943.jpg?raw=true" width="200" height="400" />
 </p>
 
@@ -31,16 +40,15 @@ Functionality: Sliding Tabs, Api Requests, WebView, Modal, Share
 
 <h2>Dependencies</h2>
 <ul>
-<li>expo</li>
- <li>expo-status-bar</li>
+  <li>expo</li>
+  <li>expo-status-bar</li>
+  <li>moment.js (Time Library)</li>
+  <li>native-base (Component-Library)</li>
+  <li>react</li>
+  <li>react-dom</li>
+  <li>react-native</li>
+  <li>react-native-web</li>
+  <li>react-native-webview (View websites In-App)</li>
 </ul>
-*
-*
-*moment.js (Time Library)
-*native-base (Component-Library)
-*react
-*react-dom
-*react-native
-*react-native-web
-*react-native-webview (View websites In-App)
+
 
