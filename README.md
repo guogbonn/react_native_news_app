@@ -2,6 +2,8 @@
 <br/>
 <h3>Purpose: A simple project to practice React Native Conepcepts.</h3>
 <br/>
+<h3>Description: IOS and Android App</h3>
+<br/>
 
 <h3>
 Functionality: Sliding Tabs, Api Requests, WebView, Modal, Share 
@@ -28,13 +30,17 @@ Functionality: Sliding Tabs, Api Requests, WebView, Modal, Share
 <br/>
 
 <h2>Dependencies</h2>
--expo
--expo-status-bar
--moment.js (Time Library)
--native-base (Component-Library)
--react
--react-dom
--react-native
--react-native-web
--react-native-webview (View websites In-App)
+<ul>
+<li>expo</li>
+ <li>expo-status-bar</li>
+</ul>
+*
+*
+*moment.js (Time Library)
+*native-base (Component-Library)
+*react
+*react-dom
+*react-native
+*react-native-web
+*react-native-webview (View websites In-App)
 
