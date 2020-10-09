@@ -5,12 +5,26 @@ Functionality: Sliding tabs, Api Requests, WebView, Share
 <h3/>
  <br/>
  <h3> In App Images </h3>
+ 
+<h2 align="center"> Feed </h2>
 <p align="center">
   <img src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2941.jpg?raw=true" data-canonical-src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2941.jpg?raw=true" width="200" height="400" />
 </p>
+  <br/>
+<h2 align="center"> Detail Modal </h2>
+ <p  align="center">
+  <img src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2942.jpg?raw=true" data-canonical-src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2942.jpg?raw=true" width="200" height="400" />
+</p>
 
+<h2 align="center"> Share Feature </h2>
+ <p  align="center">
+  <img src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2942.jpg?raw=true" data-canonical-src="https://github.com/guogbonn/react_native_news_app/blob/master/src/projectImages/IMG-2942.jpg?raw=true" width="200" height="400" />
+</p>
+
+<br/>
 
 /////
+<p>
   "dependencies": {
     "expo": "~39.0.2",
     "expo-status-bar": "~1.0.2",
@@ -22,3 +36,4 @@ Functionality: Sliding tabs, Api Requests, WebView, Share
     "react-native-web": "~0.13.12",
     "react-native-webview": "^10.9.2"
   },
+</p>
